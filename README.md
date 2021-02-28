@@ -13,7 +13,7 @@ Happy guessing!
 ## Installation
 
 ```
-git clone https://github.com/scrabill/food-or-foe-react.git
+git clone https://github.com/jaydwayne/food-or-foe.git
 ```
 
 To get the API up and running:
